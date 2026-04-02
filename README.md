@@ -24,3 +24,4 @@ The goal of the analysis is to identify sales trends, top-performing products, a
 ## Author
 Akachi Onodingene  
 Data Analyst (SQL | Power BI | Python)
+Contact: akachukwuonodingene@gmail.com
